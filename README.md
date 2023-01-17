@@ -14,7 +14,7 @@ Infrastructure)\
 ● Complete Linux course on TestOut\
 ● Develop Python skills with 100 Days Of Python
 
-Thank you for visiting! Cheers!😄
+Thanks for visiting! Cheers!😄
 
 
 <!--
