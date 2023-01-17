@@ -1,5 +1,6 @@
 Hi, you can call me **Minh**.\
 I am an ICT student, 🤓  who is passionate about many things in ICT world.
+
 <!--
 **My current interests are:**\
 ● Networking with Windows Server 2019 - Network security\
@@ -12,7 +13,8 @@ Infrastructure)\
 **My goals for 2023:**\
 ● Speak Finnish everyday\
 ● Complete Linux course on TestOut\
-● Develop Python skills with 100 Days Of Python-->
+● Develop Python skills with 100 Days Of Python
+-->
 
 Thanks for visiting! Cheers!😄
 
