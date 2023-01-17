@@ -7,12 +7,12 @@ I am an ICT student, 🤓  who is passionate about many things in ICT world.
 ● Active Directory and Group Policies\
 ● Microsoft Azure assessment (Azure Administration, Data, DevOps and Cloud 
 Infrastructure)\
-● Linux (LPI 1 & LPI 2)
+<!--● Linux (LPI 1 & LPI 2)
 
 **My goals for 2023:**\
 ● Speak Finnish everyday\
 ● Complete Linux course on TestOut\
-● Develop Python skills with 100 Days Of Python
+● Develop Python skills with 100 Days Of Python-->
 
 Thanks for visiting! Cheers!😄
 
