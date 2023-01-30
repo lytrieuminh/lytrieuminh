@@ -1,6 +1,13 @@
-Hi, you can call me **Minh**.\
-I am an ICT student, 🤓  who is passionate about many things in ICT world.
+Moi, olen **Minh Ly**. Olen utelias monissa asioissa ICT-maailmassa.\
+GitHubissa teen harrastuksia. 🤓 \
+Tervetuloa tutustumaan mun hallittuihin tietovarastoihin (engl. repository) ja projekteihin.
 
+Kiitos tutusmisesta!
+
+⚡⚡⚡⚡⚡⚡⚡⚡
+
+Hi, you can call me **Minh**.\
+I am an ICT student,  who is passionate about many things in ICT world.
 <!--
 **My current interests are:**\
 ● Networking with Windows Server 2019 - Network security\
@@ -9,15 +16,12 @@ I am an ICT student, 🤓  who is passionate about many things in ICT world.
 ● Microsoft Azure assessment (Azure Administration, Data, DevOps and Cloud 
 Infrastructure)\
 ● Linux (LPI 1 & LPI 2)
-
 **My goals for 2023:**\
 ● Speak Finnish everyday\
 ● Complete Linux course on TestOut\
 ● Develop Python skills with 100 Days Of Python
 -->
-
 Thanks for visiting! Cheers!😄
-
 
 <!--
 **lytrieuminh/lytrieuminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
