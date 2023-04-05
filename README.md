@@ -4,7 +4,7 @@ Tervetuloa tutustumaan mun hallittuihin tietovarastoihin (engl. repository) ja p
 
 Kiitos tutusmisesta!
 
-⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡  ଘ(੭ˊᵕˋ)੭* ੈ✩‧˚ ☆ Ajan myötä asiantuntijuus vahvistuu. ☆
 
 Hi, you can call me **Minh**.\
 I am an ICT student,  who is passionate about many things in ICT world.
